@@ -10,13 +10,6 @@ Entrepreneur**: I have a keen interest in entrepreneurship and am constantly exp
 
 ## Skills and Technologies
 
-### SOC Analyst
-**Security Information and Event Management (SIEM)**
-#Threat Analysis and Incident Response**
-#Intrusion Detection Systems (IDS)**
-#Network Security and Monitoring**
-#Risk Assessment and Mitigation**
-
 ### Blockchain Technology
 Understanding of Blockchain Fundamentals**
 **Smart Contract Development (Solidity)**
